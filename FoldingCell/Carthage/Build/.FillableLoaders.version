@@ -1,0 +1,9 @@
+{
+  "commitish" : "1.3.0",
+  "iOS" : [
+    {
+      "hash" : "d8cb72957b2a6715e7a4a3babd3c3fce9277585589b880d8f2edff118d552fb2",
+      "name" : "FillableLoaders"
+    }
+  ]
+}

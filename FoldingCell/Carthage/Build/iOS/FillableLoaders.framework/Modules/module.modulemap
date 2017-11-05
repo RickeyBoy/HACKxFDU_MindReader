@@ -1,0 +1,11 @@
+framework module FillableLoaders {
+  umbrella header "FillableLoaders.h"
+
+  export *
+  module * { export * }
+}
+
+module FillableLoaders.Swift {
+    header "FillableLoaders-Swift.h"
+    requires objc
+}

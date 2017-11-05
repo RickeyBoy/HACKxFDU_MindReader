@@ -1,0 +1,9 @@
+{
+  "commitish" : "3.0.0",
+  "iOS" : [
+    {
+      "hash" : "ed8546c57a67f3c5e81bbccfa8e234995ede4732c7f23e103f6787b07619e1cc",
+      "name" : "FoldingCell"
+    }
+  ]
+}
